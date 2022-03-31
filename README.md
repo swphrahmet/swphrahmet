@@ -58,7 +58,7 @@ Data Scientist | Data Analyst
 
 ## Noo!!! Snake eats all my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> 
 
-![snake gif](https://github.com/swphrahmet/swphrahmet/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/swphrahmet/swphrahme/blob/output/github-contribution-grid-snake.gif)
 </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=swphrahmet&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
