@@ -8,7 +8,7 @@ Data Scientist | Data Analyst
 
 ## Currently ...
 * 🔭  I’m currently a Data Analyst (Mentor) at CLARUSWAY IT School
-* 🌱  I’m currently learning ML, DL and NLP tools and algorithms 
+* 🌱  I’m currently learned ML, DL and NLP tools and algorithms 
 * ⌘ I'm willing to use Machine Learning, Deep Learning and NLP algorithms in solving real-life problems
 * 👯  I’m looking to collaborate on open source 
 * :speech_balloon:  I am passionate to learn and cooperate, and I am eager to share my knowledge
